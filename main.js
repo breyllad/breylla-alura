@@ -2,7 +2,7 @@ function tocaSomPom (){
   document.querySelector('#som_tecla_pom).play();
   }
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
-fuction tocaSompom () {
+fuction tocaSomClap () {
   document. querySelector('.tecla_clap').play();
 }
-document.querySelector(('.tecla_clap').onclick = tocaSomClap;
+document.querySelector('.tecla_clap').onclick = tocaSomClap;
